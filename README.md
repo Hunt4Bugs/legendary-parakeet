@@ -33,7 +33,6 @@ If one were to explore possible enhancements to this system, I would highly reco
 </br></br>
 
 ## Part 2: Option 1
-----
 </br>
 
 #### Approach:
