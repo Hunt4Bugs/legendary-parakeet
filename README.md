@@ -3,7 +3,7 @@
 A repository to work with some graph data. The source code is located in the ```src``` folder. In a python Jupyter notebook called main.
 
 ## Running the application
-----
+
 In order to run the application, Docker and Docker-Compose is required. Once installed, you can run get the application started using the below command:
 ```bash
 docker-compose up --build
@@ -12,7 +12,7 @@ Once both the notebooks and db containers are running, you can go to ```localhos
 </br></br>
 
 ## Part 1
-----
+
 </br>
 
 #### Approach:
